@@ -2,7 +2,7 @@ import telebot
 import random
 from telebot import types
 
-TOKEN = "8740967424:AAHgoRaJdGnLfU4z34yBOysLaMesNSbcXmU"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 players = {}
